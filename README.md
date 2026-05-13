@@ -214,3 +214,5 @@ pip install <пакет> --dev
 ## 📄 Ліцензія
 
 MIT License © 2026 Yana Rusko
+## Статус проєкту
+![Build Status](https://github.com/yanarusko23-create/plagiocheck/actions/workflows/main.yml/badge.svg)
